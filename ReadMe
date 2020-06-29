@@ -1,0 +1,4 @@
+AWS - maven project containing the Auto-Scaler and Load Balancer
+BIT - BIT tool with our own SudokuTool.java
+cnv-sudoku - original web server
+instrumented - intrumented classes

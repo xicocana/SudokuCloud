@@ -1,0 +1,4 @@
+*.class
+/CONSTANT_Class_Info.class
+/CONSTANT_NameAndType_Info.class
+/Constant.class
